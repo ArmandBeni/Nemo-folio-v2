@@ -32,7 +32,7 @@ export default {
           subtitle: 'UX/UI Design - 2019',
           excerpt: "Internal POS tool which aims to allow Côté Nature's employees to create in store displays of various formats with the new graphical identity, by themselves.",
           link: 'See more',
-          thumbnail: ''
+          thumbnail: '/images/coteNature.png'
         },
       otherProjects: [
         {
@@ -40,21 +40,7 @@ export default {
           subtitle: 'UX/UI Design - 2019',
           excerpt: "Internal POS tool which aims to allows Côté Nature’s employees to create in store displays of various formats with the new graphical identity, by themselves.",
           link: 'See more',
-          thumbnail: ''
-        },
-        {
-          title: 'Sprit - Cocktail builder',
-          subtitle: 'UX/UI Design - 2019',
-          excerpt: "Team project based on the cocktailAPI. The goal was to provide a cocktail builder application, based on what you have in your kitchen.",
-          link: 'See more',
-          thumbnail: ''
-        },
-        {
-          title: 'Sprit - Cocktail builder',
-          subtitle: 'UX/UI Design - 2019',
-          excerpt: "Team project based on the cocktailAPI. The goal was to provide a cocktail builder application, based on what you have in your kitchen.",
-          link: 'See more',
-          thumbnail: ''
+          thumbnail: '/images/wastic.png'
         },
       ],
       otherWorks:[

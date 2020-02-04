@@ -95,7 +95,10 @@ export default {
 
     &-img{
         width: 50%;
-        background-color: grey;
+
+        img{
+            width: 100%;
+        }
     }
 
 }
