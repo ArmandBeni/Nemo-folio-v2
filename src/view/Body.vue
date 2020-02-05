@@ -42,6 +42,48 @@ export default {
           link: 'See more',
           thumbnail: '/images/wastic.png'
         },
+        {
+          title: 'Wastic - datajournalism',
+          subtitle: 'UX/UI Design - 2019',
+          excerpt: "Internal POS tool which aims to allows Côté Nature’s employees to create in store displays of various formats with the new graphical identity, by themselves.",
+          link: 'See more',
+          thumbnail: '/images/wastic.png'
+        },
+        {
+          title: 'Wastic - datajournalism',
+          subtitle: 'UX/UI Design - 2019',
+          excerpt: "Internal POS tool which aims to allows Côté Nature’s employees to create in store displays of various formats with the new graphical identity, by themselves.",
+          link: 'See more',
+          thumbnail: '/images/wastic.png'
+        },
+        {
+          title: 'Wastic - datajournalism',
+          subtitle: 'UX/UI Design - 2019',
+          excerpt: "Internal POS tool which aims to allows Côté Nature’s employees to create in store displays of various formats with the new graphical identity, by themselves.",
+          link: 'See more',
+          thumbnail: '/images/wastic.png'
+        },
+        {
+          title: 'Wastic - datajournalism',
+          subtitle: 'UX/UI Design - 2019',
+          excerpt: "Internal POS tool which aims to allows Côté Nature’s employees to create in store displays of various formats with the new graphical identity, by themselves.",
+          link: 'See more',
+          thumbnail: '/images/wastic.png'
+        },
+        {
+          title: 'Wastic - datajournalism',
+          subtitle: 'UX/UI Design - 2019',
+          excerpt: "Internal POS tool which aims to allows Côté Nature’s employees to create in store displays of various formats with the new graphical identity, by themselves.",
+          link: 'See more',
+          thumbnail: '/images/wastic.png'
+        },
+        {
+          title: 'Wastic - datajournalism',
+          subtitle: 'UX/UI Design - 2019',
+          excerpt: "Internal POS tool which aims to allows Côté Nature’s employees to create in store displays of various formats with the new graphical identity, by themselves.",
+          link: 'See more',
+          thumbnail: '/images/wastic.png'
+        },
       ],
       otherWorks:[
         {

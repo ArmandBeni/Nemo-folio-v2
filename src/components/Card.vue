@@ -61,7 +61,10 @@ export default {
 
     &-txt{
         width: 50%;
-        padding: 3rem 2rem;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding: 0 2rem;
 
         &-title{
             font-size: 1.3rem;
